@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kew:home|Door43 (kew)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kew|d43-kew repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kew/archive/master.zip|d43-kew.zip]]
+
+**Recent Changes**
+{{changes>ns = kew}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kew|Ethnologue data]]
+
